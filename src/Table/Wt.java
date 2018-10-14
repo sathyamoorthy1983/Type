@@ -33,10 +33,14 @@ public class Wt {
 	    element.click(); 
 	 System.out.println("test");
 	 System.out.println("test one");
+<<<<<<< HEAD
 
         System.out.println("changing from f drive");
 
 System.out.println("changing from ffffffffffffff drive");
+	 System.out.println("C Driveeeeeeeee");
+         System.out.println("C Driveeeeeeeee changeeeeeeee");
+
 	  driver.findElement(By.xpath(".//*[@id='nav-link-yourAccount']")).click();
 
 	
